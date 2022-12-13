@@ -10,3 +10,5 @@
 3. [BÀI 3](https://www.jdoodle.com/embed/v0/5Cpy)
 4. [BÀI 4](https://www.jdoodle.com/embed/v0/5CpI)
 ## Bài 4: Các câu lệnh lặp
+### Bài tập trong bài 4
+1. [BÀI 1:(Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n)](https://www.jdoodle.com/embed/v0/5wvs)
