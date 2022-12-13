@@ -13,7 +13,7 @@
 ### Bài tập trong bài 4
 1. [BÀI 1:(Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n)](https://www.jdoodle.com/embed/v0/5wvs)
 2. [BÀI 2(xuất rà màn hình số nguyên dương n nhỏ nhất sao cho 1 + 2 +...+ n > 10000)](https://www.jdoodle.com/embed/v0/5xXZ)
-3.
-4.[BÀI 4](https://www.jdoodle.com/embed/v0/5DeP)
+3. 
+4. [BÀI 4](https://www.jdoodle.com/embed/v0/5DeP)
 ### Bài tập trong BTLT
 8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
