@@ -16,4 +16,11 @@
 3. [BÀI 3( nhập số nguyên dương N bất kỳ và xuất ra màn hình số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N)](https://www.jdoodle.com/embed/v0/5Dzj)
 4. [BÀI 4:(hiển thị tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93)](https://www.jdoodle.com/embed/v0/5DeP)
 ### Bài tập trong BTLT
+1. [BÀI 1]
+2. [BÀI 2]
+3. [BÀI 3]
+4. [BÀI 4]
+5. [BÀI 5]
+6. [BÀI 6]
+7. [BÀI 7]
 8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
