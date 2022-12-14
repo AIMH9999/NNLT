@@ -18,7 +18,7 @@
 ### Bài tập trong BTLT
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5DzE)
 2. [BÀI 2](https://www.jdoodle.com/embed/v0/5xXZ)
-3. [BÀI 3]
+3. [BÀI 3](https://www.jdoodle.com/embed/v0/5DAv)
 4. [BÀI 4]
 5. [BÀI 5]
 6. [BÀI 6]
