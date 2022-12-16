@@ -22,5 +22,5 @@
 4. [BÀI 4](https://www.jdoodle.com/embed/v0/5DAJ)
 5. [BÀI 5](https://www.jdoodle.com/embed/v0/5DBh)
 6. [BÀI 6](https://www.jdoodle.com/embed/v0/5Ee1)
-7. [BÀI 7]
+7. [BÀI 7](https://www.jdoodle.com/embed/v0/5EeQ)
 8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
