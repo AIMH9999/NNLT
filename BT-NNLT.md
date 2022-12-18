@@ -26,3 +26,4 @@
 8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
 ## Bài 5: Hàm
 ### [Bài tập trong bài 5](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+1. [BÀI 1:(Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n)](https://www.jdoodle.com/embed/v0/5Exu)
