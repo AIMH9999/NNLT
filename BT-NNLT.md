@@ -24,3 +24,5 @@
 6. [BÀI 6](https://www.jdoodle.com/embed/v0/5Ee1)
 7. [BÀI 7](https://www.jdoodle.com/embed/v0/5EeQ)
 8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
+## Bài 5: Hàm
+### [Bài tập trong bài 5](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
