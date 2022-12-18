@@ -28,3 +28,8 @@
 ### [Bài tập trong bài 5](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 1. [BÀI 1:(Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n)](https://www.jdoodle.com/embed/v0/5Exu)
 2. [BÀI 2:(Truoc khi hoan vi: x = 3, y = 5/Sau khi hoan vi: x = 5, y = 3)](https://www.jdoodle.com/embed/v0/5Ey2)
+### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+1. [BÀI 1]()
+2. [BÀI 2]()
+3. [BÀI 3]()
+4. [BÀI 4]()
