@@ -31,8 +31,8 @@
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5EQh)
 2. [BÀI 2]()
-3. [BÀI 3]()
-4. [BÀI 4]()
+3. [BÀI 3]()CHƯA LÀM
+4. [BÀI 4]()CHƯA LÀM
 ## Bài 6: Mảng
 ### [Bài tập trong bài 6](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 1. [BÀI 1:(Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất, nhỏ nhất của mảng)](https://www.jdoodle.com/embed/v0/5EzS)
