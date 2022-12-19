@@ -31,7 +31,7 @@
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5EQh)
 2. [BÀI 2](https://www.jdoodle.com/embed/v0/5ERG)
-3. [BÀI 3]()CHƯA LÀM
+3. [BÀI 3](https://www.jdoodle.com/embed/v0/5EVo)
 4. [BÀI 4]()CHƯA LÀM
 ## Bài 6: Mảng
 ### [Bài tập trong bài 6](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
