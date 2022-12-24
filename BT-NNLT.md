@@ -37,6 +37,8 @@
 ### [Bài tập trong bài 6](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 1. [BÀI 1:(Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất, nhỏ nhất của mảng)](https://www.jdoodle.com/embed/v0/5EzS)
 2. [BÀI 2:(Thay đổi hàm max trả về một vị trí mà giá trị tại vị trí đó là giá trị lớn nhất trong mảng)](https://www.jdoodle.com/embed/v0/5EMN)
+### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+1. [BÀI 1](https://www.jdoodle.com/embed/v0/5FNj)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5F22)
 2. [BÀI 2](https://www.jdoodle.com/embed/v0/5F2a)
