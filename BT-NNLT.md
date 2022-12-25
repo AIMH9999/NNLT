@@ -39,6 +39,7 @@
 2. [BÀI 2:(Thay đổi hàm max trả về một vị trí mà giá trị tại vị trí đó là giá trị lớn nhất trong mảng)](https://www.jdoodle.com/embed/v0/5EMN)
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5FNj)
+2. [BÀI 2](https://www.jdoodle.com/embed/v0/5FRP)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5F22)
 2. [BÀI 2](https://www.jdoodle.com/embed/v0/5F2a)
