@@ -40,6 +40,7 @@
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [BÀI 1: (Mảng 1 chiều)](https://www.jdoodle.com/embed/v0/5FNj)
 2. [BÀI 2: (Ma trận)](https://www.jdoodle.com/embed/v0/5FRP)
+3. [BÀI 2: (Ma trận vuông)](https://www.jdoodle.com/embed/v0/5G3G)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/embed/v0/5F22)
 2. [BÀI 2](https://www.jdoodle.com/embed/v0/5F2a)
