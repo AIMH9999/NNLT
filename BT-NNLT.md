@@ -43,9 +43,9 @@
 3. [BÀI 3: (Ma trận vuông)](https://www.jdoodle.com/a/5G3G)
 ## Bài 9: Trừu tượng hóa dữ liệu
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
-1. [BÀI 1: (Viết chương trình nhập tọa độ tâm và bán kính của một đường tròn trong mặt phẳng Oxy. Tính và hiển thị diện tích, chu vi của đường tròn này)](jdoodle.com/a/5GpS)
+1. [BÀI 1: (Viết chương trình nhập tọa độ tâm và bán kính của một đường tròn trong mặt phẳng Oxy. Tính và hiển thị diện tích, chu vi của đường tròn này)](https://www.jdoodle.com/a/5GpS)
 2. [BÀI 2: (Viết chương trình nhập tọa độ 3 đỉnh của một tam giác trong mặt phẳng Oxy. Tính và hiển thị chu vi, diện tích, tọa độ trọng tâm của tam giác này
-)](jdoodle.com/a/5GpQ)
+)](https://www.jdoodle.com/a/5GpQ)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/a/5F22)
 2. [BÀI 2](https://www.jdoodle.com/a/5F2a)
