@@ -45,6 +45,7 @@
 ### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [BÀI 1: (Viết chương trình nhập tọa độ tâm và bán kính của một đường tròn trong mặt phẳng Oxy. Tính và hiển thị diện tích, chu vi của đường tròn này)](https://www.jdoodle.com/a/5GpS)
 2. [BÀI 2: (Viết chương trình nhập tọa độ 3 đỉnh của một tam giác trong mặt phẳng Oxy. Tính và hiển thị chu vi, diện tích, tọa độ trọng tâm của tam giác này)](https://www.jdoodle.com/a/5GpQ)
+3. [BÀI 3: (Viết chương trình nhập danh sách sinh viên từ bàn phím. Sắp xếp danh sách sinh viên theo điểm tăng dần)](https://www.jdoodle.com/a/5GCL)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/a/5F22)
 2. [BÀI 2](https://www.jdoodle.com/a/5F2a)
