@@ -47,7 +47,7 @@
 2. [BÀI 2: (Viết chương trình nhập tọa độ 3 đỉnh của một tam giác trong mặt phẳng Oxy. Tính và hiển thị chu vi, diện tích, tọa độ trọng tâm của tam giác này)](https://www.jdoodle.com/a/5GpQ)
 3. [BÀI 3: (Viết chương trình nhập danh sách sinh viên từ bàn phím. Sắp xếp danh sách sinh viên theo điểm tăng dần)](https://www.jdoodle.com/a/5GCL)
 4. [BÀI 4: (Nhập thông tin các thành phố khác nhau. Sau đó hiển thị thành phố có tổng thu nhập cao nhất và thành phố đông dân nhất)](https://www.jdoodle.com/a/5H1t)
-5. [BÀI 4: (Tạo hai phân số,in phân số theo dạng a/b, với a là số nguyên, b là số nguyên dương, tìm UCLN của tử và mẫu, tổng và hiệu của hai phân số)](https://www.jdoodle.com/a/5Hsb)
+5. [BÀI 4: (Tạo hai phân số. In phân số theo dạng a/b, với a là số nguyên, b là số nguyên dương, Tìm UCLN của tử và mẫu, tổng và hiệu của hai phân số)](https://www.jdoodle.com/a/5Hsb)
 # BTLT(20/12/2022)
 1. [BÀI 1](https://www.jdoodle.com/a/5F22)
 2. [BÀI 2](https://www.jdoodle.com/a/5F2a)
